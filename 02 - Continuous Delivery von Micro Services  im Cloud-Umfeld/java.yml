@@ -38,7 +38,7 @@ jobs:
       run: javac *.java
     - name: Running
       working-directory: java
-      run: "java Hello | grep -c Produkte"
+      run: "java NachKaufabschluss | grep -c Produkte"
     
   deliver:
     runs-on: ubuntu-latest
