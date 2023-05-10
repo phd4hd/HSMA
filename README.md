@@ -24,6 +24,6 @@ zu verbessern.
 
 ![Mentimeter Umfrage 2](https://github.com/phd4hsma/HSMA/assets/104060003/5fb837a2-0145-4277-8efd-bdba71a51fa5)
 
-[Diesen Link mit Strg/Cmd+Klick öffnen](https://www.menti.com/alaacpsqvw5z)
+[Diesen Link mit Strg/Cmd+Klick öffnen](https://www.menti.com/alm54erse61h)
 
 Auch hierzu vielen herzlichen Dank!
