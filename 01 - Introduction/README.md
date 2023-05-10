@@ -13,3 +13,4 @@ Vorstellung meiner Person in englischer Sprache
 Eine deutsche Version der Vorstellung ist in der Datei [part-1_de.pdf](https://github.com/phd4hsma/HSMA/blob/main/01%20-%20Introduction/part-1_de.pdf) verfügbar.
 
 Ein kleiner Lebenslauf zu meiner Person kann in der Datei [dillinger_kurzvorstellung.pdf](https://github.com/phd4hsma/HSMA/blob/main/01%20-%20Introduction/dillinger_kurzvorstellung.pdf) gefunden werden.
+
