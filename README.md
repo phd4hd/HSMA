@@ -12,7 +12,7 @@ Fachgebieten vertraut sind.
 
 ![Mentimeter Umfrage 1](https://github.com/phd4hsma/HSMA/assets/104060003/17a7f7f3-88c2-4a49-810e-94ae1fab3dcd)
 
-[Link mit Strg+Klick öffnen](https://www.menti.com/alaacpsqvw5z)
+[Diesen Link mit Strg/Cmd+Klick öffnen](https://www.menti.com/alaacpsqvw5z)
 
 Vielen Dank!
 
@@ -24,6 +24,6 @@ zu verbessern.
 
 ![Mentimeter Umfrage 2](https://github.com/phd4hsma/HSMA/assets/104060003/5fb837a2-0145-4277-8efd-bdba71a51fa5)
 
-[Link mit Strg+Klick öffnen](https://www.menti.com/alaacpsqvw5z)
+[Diesen Link mit Strg/Cmd+Klick öffnen](https://www.menti.com/alaacpsqvw5z)
 
 Auch hierzu vielen herzlichen Dank!
