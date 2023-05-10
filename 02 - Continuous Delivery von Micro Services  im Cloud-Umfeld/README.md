@@ -23,3 +23,4 @@ Notwendige Resourcen
 - [Dave Farley: Continuous Delivery Pipelines: How To Build Better Software Faster](https://www.amazon.de/Continuous-Delivery-Pipelines-Better-Software/dp/B096TTQHYM)
 - [Eberhard Wolff: Continuous Delivery: Der pragmatische Einstieg](https://www.amazon.de/Continuous-Delivery-pragmatische-Eberhard-Wolff/dp/3864903718)
 - [Jez Humble, David Farley: Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.amazon.de/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
+
